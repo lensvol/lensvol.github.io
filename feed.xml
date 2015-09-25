@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://lensvol.github.io/' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+Stray lines of code.
+</title>
+<link>
+http://lensvol.github.io/
+</link>
+<description>
+Thoughts, things and threats to sanity
+</description>
+<lastBuildDate>
+Sat, 26 Sep 2015 00:32:49 +0400
+</lastBuildDate>
+<item>
+<guid>
+http://lensvol.github.io/posts/2015-07-01-hello-world.html
+</guid>
+<link>
+http://lensvol.github.io/posts/2015-07-01-hello-world.html
+</link>
+<title>
+Привет, мир!
+</title>
+<description>
+&lt;p&gt;Настало время завести какое-то место для складывания ссылок, выкладывания материалов с выступлений или просто анонсы маленьких side-project'ов.&lt;/p&gt;&lt;p&gt;Для затравки: слайды с доклада на &quot;IT Global Meetup&quot;, прошедшего 6 июня.&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/pM3vJiAoGfehtM&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/ss-49176408&quot; title=&quot;Контроль за качеством кода&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Контроль за качеством кода&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/lensvol&quot; target=&quot;_blank&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;Stay tuned!&lt;/p&gt;
+</description>
+<pubDate>
+Wed, 01 Jul 2015 00:00:00 +0400
+</pubDate>
+</item>
+</channel>
+</rss>
