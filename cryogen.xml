@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://lensvol.github.io/' rel='self' type='application/rss+xml'/>
+<atom:link href='http://lensvol.me/' rel='self' type='application/rss+xml'/>
 <generator>
 clj-rss
 </generator>
 <title>
-Stray lines of code.
+Stray lines
 </title>
 <link>
-http://lensvol.github.io/
+http://lensvol.me/
 </link>
 <description>
 Thoughts, things and threats to sanity
 </description>
 <lastBuildDate>
-Sat, 26 Sep 2015 21:38:19 +0400
+Thu, 01 Oct 2015 12:29:43 +0400
 </lastBuildDate>
 </channel>
 </rss>

@@ -1,28 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://lensvol.github.io/' rel='self' type='application/rss+xml'/>
+<atom:link href='http://lensvol.me/' rel='self' type='application/rss+xml'/>
 <generator>
 clj-rss
 </generator>
 <title>
-Stray lines of code.
+Stray lines
 </title>
 <link>
-http://lensvol.github.io/
+http://lensvol.me/
 </link>
 <description>
 Thoughts, things and threats to sanity
 </description>
 <lastBuildDate>
-Sat, 26 Sep 2015 21:38:19 +0400
+Thu, 01 Oct 2015 12:29:43 +0400
 </lastBuildDate>
 <item>
 <guid>
-http://lensvol.github.io/posts/2015-07-01-hello-world.html
+http://lensvol.me/posts/2015-10-01-pyconru2015-slides.html
 </guid>
 <link>
-http://lensvol.github.io/posts/2015-07-01-hello-world.html
+http://lensvol.me/posts/2015-10-01-pyconru2015-slides.html
+</link>
+<title>
+Слайды с PyCon Russia 2015
+</title>
+<description>
+&lt;p&gt;Лучше поздно, чем никогда. &lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/F8kfuzmbzRVilj&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/ast-fst&quot; title=&quot;Автоматизированные рефакторинги: AST, FST и все-все-все&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Автоматизированные рефакторинги: AST, FST и все-все-все&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/lensvol&quot; target=&quot;_blank&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&quot;Реальный код&quot; из доклада:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c5ab2ec0b5538c44c7b8'&gt;Пример с модулем ast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c739e14a3c308348e027'&gt;Пример с модулем redbaron&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+</description>
+<pubDate>
+Thu, 01 Oct 2015 00:00:00 +0400
+</pubDate>
+</item>
+<item>
+<guid>
+http://lensvol.me/posts/2015-07-01-hello-world.html
+</guid>
+<link>
+http://lensvol.me/posts/2015-07-01-hello-world.html
 </link>
 <title>
 Привет, мир!
