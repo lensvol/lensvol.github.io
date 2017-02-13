@@ -15,8 +15,25 @@ http://lensvol.me/
 Thoughts, things and threats to sanity
 </description>
 <lastBuildDate>
-Tue, 27 Oct 2015 23:32:40 +0400
+Mon, 13 Feb 2017 19:23:09 +0300
 </lastBuildDate>
+<item>
+<guid>
+http://lensvol.me/posts/2016-08-04-pycon-2016-talk.html
+</guid>
+<link>
+http://lensvol.me/posts/2016-08-04-pycon-2016-talk.html
+</link>
+<title>
+Слайды и видео с PyCon Russia 2016
+</title>
+<description>
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pa_kAkXuOyA?list=PLRdS-n5seLRqszBqVDF342RMlCWgOTm6q&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Слайды:&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/8RA4QKGOO7XDBR&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/flame-graph&quot; title=&quot;Flame graph: новый взгляд на старое профилирование&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Flame graph: новый взгляд на старое профилирование&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/lensvol&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+<pubDate>
+Thu, 04 Aug 2016 00:00:00 +0300
+</pubDate>
+</item>
 <item>
 <guid>
 http://lensvol.me/posts/2015-10-01-pyconru2015-slides.html
@@ -28,10 +45,10 @@ http://lensvol.me/posts/2015-10-01-pyconru2015-slides.html
 Слайды с PyCon Russia 2015
 </title>
 <description>
-&lt;p&gt;Лучше поздно, чем никогда. &lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/F8kfuzmbzRVilj&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/ast-fst&quot; title=&quot;Автоматизированные рефакторинги: AST, FST и все-все-все&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Автоматизированные рефакторинги: AST, FST и все-все-все&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/lensvol&quot; target=&quot;_blank&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&quot;Реальный код&quot; из доклада:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c5ab2ec0b5538c44c7b8'&gt;Пример с модулем ast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c739e14a3c308348e027'&gt;Пример с модулем redbaron&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Лучше поздно, чем никогда. &lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/NFlmmchAE9watH?startSlide=3&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/ast-fst&quot; title=&quot;Автоматизированные рефакторинги: AST, FST и все-все-все&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Автоматизированные рефакторинги: AST, FST и все-все-все&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/lensvol&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&quot;Реальный код&quot; из доклада:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c5ab2ec0b5538c44c7b8'&gt;Пример с модулем ast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='https://gist.github.com/lensvol/c739e14a3c308348e027'&gt;Пример с модулем redbaron&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </description>
 <pubDate>
-Thu, 01 Oct 2015 00:00:00 +0400
+Thu, 01 Oct 2015 00:00:00 +0300
 </pubDate>
 </item>
 <item>
@@ -48,7 +65,7 @@ http://lensvol.me/posts/2015-07-01-hello-world.html
 &lt;p&gt;Настало время завести какое-то место для складывания ссылок, выкладывания материалов с выступлений или просто анонсы маленьких side-project'ов.&lt;/p&gt;&lt;p&gt;Для затравки: слайды с доклада на &quot;IT Global Meetup&quot;, прошедшего 6 июня.&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed&lt;i&gt;code/key/pM3vJiAoGfehtM&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/lensvol/ss-49176408&quot; title=&quot;Контроль за качеством кода&quot; target=&quot;&lt;/i&gt;blank&quot;&gt;Контроль за качеством кода&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/lensvol&quot; target=&quot;_blank&quot;&gt;Кирилл Борисов&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;Stay tuned!&lt;/p&gt;
 </description>
 <pubDate>
-Wed, 01 Jul 2015 00:00:00 +0400
+Wed, 01 Jul 2015 00:00:00 +0300
 </pubDate>
 </item>
 </channel>
